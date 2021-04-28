@@ -8,7 +8,7 @@ export default {
   props:{},
   data(){
     return {
-        add:{},
+        a:''
     }
   },
   watch:{},
